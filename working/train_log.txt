@@ -1,0 +1,106 @@
+wrote baseline fallback submission at t=2s
+fold 0 epoch 0 loss 0.3216 val_score 13.513 S=0.103 R=0.174 best=13.513 t=82s
+fold 0 epoch 1 loss 0.3048 val_score 16.780 S=0.116 R=0.235 best=16.780 t=158s
+fold 0 epoch 2 loss 0.2991 val_score 18.165 S=0.130 R=0.247 best=18.165 t=234s
+fold 0 epoch 3 loss 0.2942 val_score 18.379 S=0.133 R=0.248 best=18.379 t=314s
+fold 0 epoch 4 loss 0.2886 val_score 18.932 S=0.134 R=0.261 best=18.932 t=383s
+fold 0 epoch 5 loss 0.2821 val_score 17.561 S=0.115 R=0.257 best=18.932 t=456s
+fold 0 epoch 6 loss 0.2823 val_score 20.196 S=0.139 R=0.283 best=20.196 t=528s
+fold 0 epoch 7 loss 0.2760 val_score 19.896 S=0.140 R=0.275 best=20.196 t=599s
+fold 0 epoch 8 loss 0.2720 val_score 20.627 S=0.141 R=0.292 best=20.627 t=671s
+fold 0 epoch 9 loss 0.2674 val_score 21.442 S=0.150 R=0.297 best=21.442 t=750s
+fold 0 epoch 10 loss 0.2622 val_score 13.585 S=0.052 R=0.295 best=21.442 t=831s
+fold 0 done best_score=21.442 elapsed=840s
+checkpoint: wrote submission after fold 0 (1 models) at t=840s
+fold 1 epoch 0 loss 0.3219 val_score 11.612 S=0.115 R=0.117 best=11.612 t=907s
+fold 1 epoch 1 loss 0.3105 val_score 15.982 S=0.124 R=0.203 best=15.982 t=975s
+fold 1 epoch 2 loss 0.3027 val_score 18.001 S=0.135 R=0.236 best=18.001 t=1055s
+fold 1 epoch 3 loss 0.2967 val_score 19.339 S=0.136 R=0.267 best=19.339 t=1130s
+fold 1 epoch 4 loss 0.2903 val_score 18.176 S=0.128 R=0.251 best=19.339 t=1204s
+fold 1 epoch 5 loss 0.2852 val_score 18.708 S=0.132 R=0.257 best=19.339 t=1277s
+fold 1 epoch 6 loss 0.2818 val_score 17.899 S=0.122 R=0.254 best=19.339 t=1354s
+fold 1 epoch 7 loss 0.2742 val_score 18.552 S=0.115 R=0.284 best=19.339 t=1423s
+fold 1 epoch 8 loss 0.2648 val_score 13.929 S=0.060 R=0.278 best=19.339 t=1499s
+fold 1 epoch 9 loss 0.2563 val_score 16.682 S=0.088 R=0.290 best=19.339 t=1581s
+fold 1 epoch 10 loss 0.2476 val_score 17.442 S=0.092 R=0.303 best=19.339 t=1655s
+fold 1 done best_score=19.339 elapsed=1669s
+checkpoint: wrote submission after fold 1 (2 models) at t=1669s
+fold 2 epoch 0 loss 0.3268 val_score 11.046 S=0.122 R=0.100 best=11.046 t=1746s
+fold 2 epoch 1 loss 0.3059 val_score 15.262 S=0.113 R=0.203 best=15.262 t=1818s
+fold 2 epoch 2 loss 0.3010 val_score 16.768 S=0.128 R=0.216 best=16.768 t=1897s
+fold 2 epoch 3 loss 0.2961 val_score 18.320 S=0.133 R=0.246 best=18.320 t=1965s
+fold 2 epoch 4 loss 0.2911 val_score 18.927 S=0.137 R=0.255 best=18.927 t=2047s
+fold 2 epoch 5 loss 0.2858 val_score 19.443 S=0.144 R=0.257 best=19.443 t=2121s
+fold 2 epoch 6 loss 0.2819 val_score 15.808 S=0.094 R=0.250 best=19.443 t=2192s
+fold 2 epoch 7 loss 0.2777 val_score 18.610 S=0.123 R=0.272 best=19.443 t=2267s
+fold 2 epoch 8 loss 0.2742 val_score 18.830 S=0.128 R=0.267 best=19.443 t=2339s
+fold 2 epoch 9 loss 0.2709 val_score 17.463 S=0.106 R=0.272 best=19.443 t=2412s
+fold 2 epoch 10 loss 0.2621 val_score 16.650 S=0.090 R=0.283 best=19.443 t=2497s
+fold 2 done best_score=19.443 elapsed=2511s
+checkpoint: wrote submission after fold 2 (3 models) at t=2511s
+fold 3 epoch 0 loss 0.3230 val_score 14.865 S=0.154 R=0.143 best=14.865 t=2585s
+fold 3 epoch 1 loss 0.3107 val_score 17.508 S=0.155 R=0.197 best=17.508 t=2613s
+fold 3 epoch 2 loss 0.3044 val_score 19.840 S=0.164 R=0.239 best=19.840 t=2637s
+fold 3 epoch 3 loss 0.2948 val_score 20.901 S=0.174 R=0.249 best=20.901 t=2659s
+fold 3 epoch 4 loss 0.2872 val_score 21.523 S=0.171 R=0.267 best=21.523 t=2681s
+fold 3 epoch 5 loss 0.2841 val_score 19.994 S=0.169 R=0.234 best=21.523 t=2704s
+fold 3 epoch 6 loss 0.2782 val_score 19.630 S=0.160 R=0.238 best=21.523 t=2726s
+fold 3 epoch 7 loss 0.2691 val_score 23.051 S=0.186 R=0.283 best=23.051 t=2748s
+fold 3 epoch 8 loss 0.2583 val_score 19.877 S=0.121 R=0.308 best=23.051 t=2770s
+fold 3 epoch 9 loss 0.2537 val_score 21.164 S=0.133 R=0.321 best=23.051 t=2791s
+fold 3 epoch 10 loss 0.2416 val_score 22.499 S=0.143 R=0.339 best=23.051 t=2813s
+fold 3 epoch 11 loss 0.2354 val_score 22.302 S=0.142 R=0.334 best=23.051 t=2836s
+fold 3 epoch 12 loss 0.2282 val_score 20.441 S=0.131 R=0.305 best=23.051 t=2858s
+fold 3 epoch 13 loss 0.2123 val_score 22.261 S=0.136 R=0.346 best=23.051 t=2880s
+fold 3 epoch 14 loss 0.2009 val_score 22.222 S=0.132 R=0.353 best=23.051 t=2903s
+fold 3 epoch 15 loss 0.1848 val_score 20.486 S=0.109 R=0.353 best=23.051 t=2924s
+fold 3 epoch 16 loss 0.1750 val_score 18.877 S=0.096 R=0.337 best=23.051 t=2947s
+fold 3 epoch 17 loss 0.1710 val_score 18.690 S=0.092 R=0.342 best=23.051 t=2969s
+fold 3 done best_score=23.051 elapsed=2972s
+checkpoint: wrote submission after fold 3 (4 models) at t=2972s
+fold 4 epoch 0 loss 0.3220 val_score 11.395 S=0.082 R=0.154 best=11.395 t=2995s
+fold 4 epoch 1 loss 0.3059 val_score 13.761 S=0.092 R=0.198 best=13.761 t=3017s
+fold 4 epoch 2 loss 0.2971 val_score 16.234 S=0.107 R=0.237 best=16.234 t=3040s
+fold 4 epoch 3 loss 0.2949 val_score 16.853 S=0.110 R=0.248 best=16.853 t=3061s
+fold 4 epoch 4 loss 0.2885 val_score 16.591 S=0.100 R=0.260 best=16.853 t=3084s
+fold 4 epoch 5 loss 0.2876 val_score 16.779 S=0.110 R=0.245 best=16.853 t=3106s
+fold 4 epoch 6 loss 0.2881 val_score 17.895 S=0.110 R=0.276 best=17.895 t=3128s
+fold 4 epoch 7 loss 0.2845 val_score 18.048 S=0.110 R=0.281 best=18.048 t=3150s
+fold 4 epoch 8 loss 0.2829 val_score 17.615 S=0.100 R=0.289 best=18.048 t=3173s
+fold 4 epoch 9 loss 0.2746 val_score 17.661 S=0.101 R=0.289 best=18.048 t=3195s
+fold 4 epoch 10 loss 0.2688 val_score 18.398 S=0.104 R=0.304 best=18.398 t=3218s
+fold 4 epoch 11 loss 0.2651 val_score 19.413 S=0.115 R=0.309 best=19.413 t=3240s
+fold 4 epoch 12 loss 0.2686 val_score 18.348 S=0.097 R=0.317 best=19.413 t=3263s
+fold 4 epoch 13 loss 0.2619 val_score 16.610 S=0.081 R=0.304 best=19.413 t=3286s
+fold 4 epoch 14 loss 0.2604 val_score 19.995 S=0.121 R=0.313 best=19.995 t=3309s
+fold 4 epoch 15 loss 0.2500 val_score 19.494 S=0.110 R=0.321 best=19.995 t=3333s
+fold 4 epoch 16 loss 0.2384 val_score 21.365 S=0.128 R=0.335 best=21.365 t=3357s
+fold 4 epoch 17 loss 0.2331 val_score 19.797 S=0.111 R=0.329 best=21.365 t=3392s
+fold 4 epoch 18 loss 0.2304 val_score 17.712 S=0.088 R=0.322 best=21.365 t=3415s
+fold 4 epoch 19 loss 0.2229 val_score 4.039 S=0.000 R=0.323 best=21.365 t=3438s
+fold 4 epoch 20 loss 0.2129 val_score 19.162 S=0.099 R=0.337 best=21.365 t=3461s
+fold 4 epoch 21 loss 0.1937 val_score 18.712 S=0.098 R=0.327 best=21.365 t=3485s
+fold 4 epoch 22 loss 0.1826 val_score 18.341 S=0.097 R=0.317 best=21.365 t=3508s
+fold 4 epoch 23 loss 0.1742 val_score 11.742 S=0.030 R=0.320 best=21.365 t=3532s
+fold 4 epoch 24 loss 0.1609 val_score 16.093 S=0.069 R=0.323 best=21.365 t=3555s
+fold 4 epoch 25 loss 0.1567 val_score 18.139 S=0.089 R=0.331 best=21.365 t=3580s
+fold 4 epoch 26 loss 0.1463 val_score 16.308 S=0.071 R=0.324 best=21.365 t=3636s
+fold 4 done best_score=21.365 elapsed=3639s
+checkpoint: wrote submission after fold 4 (5 models) at t=3639s
+FINAL OOF (NN only): {'H1': 0.212006391183572, 'H2': 0.05568776944649576, 'H4': 0.299605435100202, 'S': 0.15236532928596808, 'R': 0.2875683123492576, 'score': 21.198274106110087}
+blend alpha=0.0 score=20.322 H1=0.218 H2=0.041 H4=0.303
+blend alpha=0.1 score=20.523 H1=0.221 H2=0.042 H4=0.305
+blend alpha=0.2 score=20.733 H1=0.223 H2=0.045 H4=0.307
+blend alpha=0.3 score=20.893 H1=0.224 H2=0.046 H4=0.308
+blend alpha=0.4 score=21.046 H1=0.225 H2=0.049 H4=0.309
+blend alpha=0.5 score=21.154 H1=0.225 H2=0.050 H4=0.308
+blend alpha=0.6 score=21.246 H1=0.224 H2=0.052 H4=0.308
+blend alpha=0.7 score=21.317 H1=0.222 H2=0.054 H4=0.306
+blend alpha=0.8 score=21.335 H1=0.220 H2=0.055 H4=0.305
+blend alpha=0.9 score=21.296 H1=0.216 H2=0.056 H4=0.302
+blend alpha=1.0 score=21.198 H1=0.212 H2=0.056 H4=0.300
+FINAL OOF best blend alpha=0.80 score=21.335
+wrote final 650 rows to working\submission.csv at t=3639s
+
+pip_system_certs: ERROR: could not inject truststore: [ASN1: NOT_ENOUGH_DATA] not enough data (_ssl.c:4030)
+
